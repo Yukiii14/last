@@ -1,5 +1,5 @@
 <?php 
-namespace app\Http\Controller; 
+namespace App\Http\Controller; 
  
 use app\Models\Student; 
 use Illuminate\Http\Request; 
