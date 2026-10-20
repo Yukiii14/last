@@ -1,5 +1,4 @@
 <?php 
- 
 namespace app\Http\Controller; 
  
 use app\Models\Student; 
