@@ -1,12 +1,12 @@
 <?php 
  
-namespace app\Http\Controllers; 
+namespace app\Http\Controller; 
  
 use app\Models\Student; 
 use Illuminate\Http\Request; 
 use Illuminate\Validation\Rule; 
  
-class StudentController extends Controller 
+class StudentController extends Controller
 { 
     // READ: Display all students 
     public function index() 
